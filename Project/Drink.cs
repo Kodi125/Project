@@ -1,4 +1,11 @@
-﻿using System;
+﻿/* #############################
+ * 
+ * Author: Johnathon Mc Grory
+ * Date : 2 / 2 / 2020
+ * Description : Code for CA project (bar till system)
+ * 
+ * ############################# */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
