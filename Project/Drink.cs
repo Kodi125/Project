@@ -19,10 +19,15 @@ namespace Project
     {
         Draught,
         Minerals,
+        Juices,
+        Babies,
         Wine,
         TeasAndCoffees,
         BottledBeer, 
-        Liqueurs, 
+        Vodkas,
+        Whiskeys,
+        Liqueurs,
+        Gins,
         Shots,
 
     }
