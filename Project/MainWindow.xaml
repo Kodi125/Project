@@ -8,13 +8,20 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="544,43,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <RadioButton Content="Minerals" HorizontalAlignment="Left" Margin="25,63,0,0" VerticalAlignment="Top" Height="17"/>
-        <RadioButton Content="Wine" HorizontalAlignment="Left" Margin="25,85,0,0" VerticalAlignment="Top"/>
-        <RadioButton Content="Teas &amp; Coffees" HorizontalAlignment="Left" Margin="25,105,0,0" VerticalAlignment="Top"/>
-        <RadioButton Content="Draught" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,43,0,0" Checked="RadioButton_Checked"/>
-        <RadioButton Content="Bottled Beer" HorizontalAlignment="Left" Margin="25,125,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Minerals" HorizontalAlignment="Left" Margin="22,30,0,0" VerticalAlignment="Top" Height="17"/>
+        <RadioButton Content="Juices" HorizontalAlignment="Left" Margin="22,51,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked" Width="64"/>
+        <RadioButton Content="Babies" HorizontalAlignment="Left" Margin="22,71,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked" Width="64"/>
+        <RadioButton Content="Draught" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="24,10,0,0" Checked="RadioButton_Checked"/>
+        <RadioButton Content="Wine" HorizontalAlignment="Left" Margin="22,91,0,0" VerticalAlignment="Top" Width="64"/>
         <ListBox HorizontalAlignment="Left" Height="350
-" VerticalAlignment="Top" Width="200" Margin="141,43,0,0"/>
+" VerticalAlignment="Top" Width="200" Margin="135,30,0,0"/>
+        <RadioButton Content="Teas and Coffees" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="22,111,0,0"/>
+        <RadioButton Content="Bottled Beer" HorizontalAlignment="Left" Margin="22,131,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Gins" HorizontalAlignment="Left" Margin="22,151,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Whiskeys" HorizontalAlignment="Left" Margin="22,171,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Vodkas" HorizontalAlignment="Left" Margin="22,191,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Liqeuers" HorizontalAlignment="Left" Margin="22,211,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="Shots" HorizontalAlignment="Left" Margin="24,231,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
